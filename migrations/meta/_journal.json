@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1735296939145,
+      "tag": "0000_milky_virginia_dare",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1735311191843,
+      "tag": "0001_overrated_lorna_dane",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1735311216309,
+      "tag": "0002_adorable_queen_noir",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1735311321915,
+      "tag": "0003_tranquil_miracleman",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1735314249805,
+      "tag": "0004_premium_whiplash",
+      "breakpoints": true
+    }
+  ]
+}
